@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PPB D_Tugas 2_5025211166"
+rootProject.name = "5025211166_PPB D_Tugas2"
 include(":app")
